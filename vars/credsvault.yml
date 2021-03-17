@@ -1,0 +1,8 @@
+---
+dell:
+        unispherehost: 10.126.70.28
+        universion: "90"
+        verifycert: no
+        user: smc
+        password: smc
+
